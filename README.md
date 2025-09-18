@@ -32,12 +32,3 @@ Built for mobile, tablet, and desktop with full event handling and clean UI.
 ## Live Demo
 
 [View on GitHub Pages](https://kotanarayanareddy.github.io/smart-responsive-calculator)
-
----
-
-## How to Run Locally
-
-```bash
-git clone https://github.com/kotanarayanareddy/smart-responsive-calculator.git
-cd smart-responsive-calculator
-# Open index.html in your browser
